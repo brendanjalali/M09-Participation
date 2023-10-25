@@ -10,4 +10,3 @@ setup(
     license="MIT",
     packages=['demo']
 )
-
