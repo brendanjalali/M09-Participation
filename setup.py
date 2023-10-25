@@ -8,5 +8,5 @@ setup(
     author="Brendan Jalali",
     author_email="bdj9wf@virginia.edu",
     license="MIT",
-    packages=['demo']
+    packages=['Demo']
 )
